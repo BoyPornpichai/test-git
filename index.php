@@ -54,7 +54,7 @@ tamp1
 
 </div>
 <div class="btnDiv" id="century_square">
-century_square
+century_square123
 </div>
   <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js'></script>
 <script>
