@@ -51,7 +51,7 @@ tamp_mallssabcdes
 </div>
 <div class="btnDiv" id="tamp1">
 tamp1
-
+tamp2
 </div>
 <div class="btnDiv" id="century_square">
 century_square123
